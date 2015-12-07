@@ -15,7 +15,7 @@
 ##### [.exclude](#exclude-rewind)
 ________________________________________________________________________________
 ## About [:rewind:](#read-me)
-
+This theme begins with a sassified [underscores](http://underscores.me/) theme and this is the link for the default [README.md](../blob/master/README-underscores.md).
 ### Who [:rewind:](#read-me)
 
 
